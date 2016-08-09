@@ -1,0 +1,201 @@
+<div class="container">
+<ul class="timeline">
+<li class="timeline">
+          <div class="timeline-badge success">
+<i class="glyphicon glyphicon-thumbs-up"></i></div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h2 class="timeline-title">
+ April 2016 - </h2>
+<h3 class="timeline-subtitle">
+Compuccino Ltd. Machine Learning Developer</h3>
+</div>
+<div class="timeline-body">
+Natural Language Processing on real-time big news data. </div>
+<div class="timeline-heading">
+<h3 class="timeline-subtitle">
+Deep Learning Research Intern</h3>
+</div>
+<div class="timeline-body">
+Deep Learning to achieve invariance in object recognition. </div>
+</div>
+</li>
+<li class="timeline-inverted">
+          <div class="timeline-badge success">
+<i class="glyphicon glyphicon-thumbs-up"></i></div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h2 class="timeline-title">
+Spring 2016</h2>
+<h3 class="timeline-subtitle">
+University of Birmingham visiting research intern</h3>
+</div>
+<div class="timeline-body">
+Experimentally and theoretically investigate Reinforcement Learning in motor control. </div>
+</div>
+</li>
+<li class="timeline">
+          <div class="timeline-badge success">
+<i class="glyphicon glyphicon-thumbs-up"></i></div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h2 class="timeline-title">
+Autumn 2015</h2>
+<h3 class="timeline-subtitle">
+Research Intern Haynes neuroimaging lab</h3>
+</div>
+<div class="timeline-body">
+Brain reading from fMRI data using Machine Learning. </div>
+</div>
+</li>
+<li class="timeline-inverted">
+          <div class="timeline-badge success">
+<i class="glyphicon glyphicon-thumbs-up"></i></div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h2 class="timeline-title">
+2014-</h2>
+<h3 class="timeline-subtitle">
+Joint M.Sc. Humboldt Universität zu Berlin and Technische Universität Berlin</h3>
+</div>
+<div class="timeline-body">
+Computational Neuroscience graduate prorgamme.</div>
+</div>
+</li>
+<li class="timeline">
+          <div class="timeline-badge success">
+<i class="glyphicon glyphicon-thumbs-up"></i></div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h2 class="timeline-title">
+2011-2014</h2>
+<h3 class="timeline-subtitle">
+B.Sc. Technische Universität Berlin</h3>
+</div>
+<div class="timeline-body">
+Physical Engineering Science with focus on dynamical systems. </div>
+</div>
+</li>
+</ul>
+</div>
+<br />
+<div class="container" style="font-size: 50; font-weight: 300; margin-bottom: 30px; margin-top: 80px; text-align: center;">
+<hr>
+<h2 class="project-title"> Projects </h2>
+<div class="row" >
+
+<!FIRST PROJECT>
+
+<div class="col-md-4">
+  <div class="pp">
+
+      <a href="http://oeberle.blogspot.com/">
+         <img class="image-cropper" src="https://media.giphy.com/media/l0K4aosenP6gbOL0A/giphy.gif"  />
+      </a>
+      <div class="ppt">Brain Decoding</div>
+      <div class="ppd">
+         I wanted to find out how we can read brains. In <a href="https://sites.google.com/site/hayneslab/home">hayneslab</a> I was using fMRI activity and machine learning to predict, which intensity in every out of 48 checkerboard segments was presented. What I learned: It is really hard, but some segments could be predicted with >90% accuracy.
+        </div>
+
+
+  </div>
+ </div>
+<!SECOND PROJECT>
+
+<div class="col-md-4">
+  <div class="pp">
+
+
+      <a href="http://oeberle.blogspot.com/">
+         <img  class="image-cropper" src="https://1.bp.blogspot.com/-IWqUfR3HXtU/VzTYSwhpm2I/AAAAAAAAAeM/vP4kxA0M460bgeEhJ-FYlkfsqFeCEYEagCLcB/s320/PRISM_PIC.png" />
+      </a>
+      <div class="ppt">Motor Learning</div>
+      <div class="ppd">
+       What is behind the brain's amazing capbility to learn new movements? With <a href="http://www.birmingham.ac.uk/staff/profiles/psychology/miall-chris.aspx">Prof. Miall</a> I investigated learning from reinforcement and error information. My experiment showed, that additional reinforcement feedback was used by participants and speeds up adaptation. Noisy, individual data was modelled by a custom mechanistic model.
+       </div>
+
+
+  </div>
+</div>
+
+<!THIRD PROJECT>
+
+<div class="col-md-4">
+  <div class="pp">
+
+
+    
+      <a href="http://oeberle.blogspot.com/">
+         <img class="image-cropper" src="https://media.giphy.com/media/l0K4iDH2IaOKM6KrK/giphy.gif" />
+      </a>
+      <div class="ppt">Evolution of Grid Cells </div>
+      <div class="ppd">
+       Inspired by <a href="http://folk.ntnu.no/kropff/kropff/kropff/KropffTreves_grids.pdf">this</a> paper by Kropff and Treves, I became excited about biological learning and the emergence of cost-minimizing systems. For this, I juggled with a virtual rat, weight updates and partial differential equations. Just look at how beautiful the Grid Cells are evolving into hexagonal grids, which are crucial for spatial orientation! <br>
+       </div>
+   <ul>
+  <li class="link-li" >
+  <a href="https://github.com/Kreiswolke/GridCell">Git</a>
+  </li>
+
+
+
+  </ul>
+
+    </div>
+  </div>
+</div>
+
+<div class="row">
+
+<!FIRST PROJECT>
+
+<div class="col-md-4">
+
+
+
+
+
+
+ </div>
+<!SECOND PROJECT>
+
+<div class="col-md-4">
+  <div class="pp">
+
+
+      <a href="http://oeberle.blogspot.com/">
+         <img  class="image-cropper" src="https://media.giphy.com/media/l0K4aRpF129nbT9ew/giphy.gif" />
+      </a>
+      <div class="ppt">The Weather Project</div>
+      <div class="ppd">
+With Tiziano Zito, me and my fellow students worked in sub-groups to analyse historical and current big weather data of Germany, scraping predictions from several forecast providers and comparing their predictive power. We found significant effects of global warming over the last 100 years and in some cases a bias towards positive forecasting.
+       </div>
+  <ul>
+  <li class="link-li" >
+  <a href="https://github.com/BCCN-Prog/database_2015">Git</a>
+  </li>
+
+
+
+  </ul>
+
+
+  </div>
+</div>
+
+<!THIRD PROJECT>
+
+<div class="col-md-4">
+  
+
+
+
+
+
+  </div>
+</div>
+
+
+
+</div>
+
